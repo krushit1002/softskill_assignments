@@ -1,0 +1,115 @@
+Module 2) Technology
+● Discuss plans for upgrading your technology skills.
+1. Dedicate time to reading around
+As a student and when starting out in your career, it can be hard to find time to read anything beyond what’s required by 
+your course. But if you want to get ahead professionally, you need to make the time for it. Stay in one night a week or may
+be make it the thing you do on a Sunday morning before you go for a run. However you do it, scheduling a regular spot to 
+start getting informed is going to make the process so much easier.
+2. Identify your favourite tech-related media outlets
+The great thing about all-things-tech is that there is simply so much great information available online for free. It’s the
+nature of the beast. From Wired, Business Insider, Financial Times technology section, to TechCrunch, The Verge, Engadget,
+there are so many easy ways to get informed. Don’t feel you have to read every last article. Surf around and see what attracts
+you most.
+3. Curate your own public profile
+Make sure you’ve got the obvious ones - Facebook, Twitter, LinkedIn, Instagram - and then actively use them to post tech-
+related media, whether articles, videos or blogposts. Hunt down and follow people who are writing things you can relate 
+to about tech. Then go beyond the standard and start making yourself stand out - create a blog and write regular posts on
+this about all things tech (and related) that are starting to garner your interest. You’re aiming for consistency of 
+content and style. Remember this is something you’ll want prospective employers to look at as evidence of your growing 
+interest.
+4. Use tools to increase your own efficiency
+Start using Doodle to find dates for your sports team’s training sessions instead of mailing the whole team and coordinating
+responses. Stop ordering taxis over the phone and use an app instead. Do your banking using an app rather than in the 
+branch. Try linking up your social media accounts (they each have simple descriptions on how to do this online), so you 
+only post once - not four times. This will give you a better sense of the positive power of technology and save you time.
+5. Analyse what you consume
+We live in the age of smartphones. Start thinking about what you use on your phone / online and why. How does it help you?
+What improvements were added in the recent update?  Why might these have been introduced? Is there anything you wish your 
+favourite app could do but doesn’t? What do you think of the design? Is it clean and functional or playful and witty? 
+How (well) does the design fit with the functionality? Keep a note of your musings in a table and refer back to it from 
+time to time.
+6. Start building your skill set
+Learning at least a little bit of coding would be a fabulous thing for everyone, whether they are interested in working 
+in tech or not. In doing this, you dispel the mystery cloaking this activity and realise it’s not too dissimilar to learning
+maths or another language. Unless you’re desperate to become a coder, starting with HTML and CSS would suit you fine. 
+Java and Ruby are good too, especially the latter as it’s so easy learn and used by loads of startups. In most cities and
+ universities, there are plenty of clubs for aspiring developers, programmers, and designers. Check out Meetup to find one
+near you. Or try an online course: check out MIT open courseware, Code Academy or Udemy. Bright Network's Technology 
+Academy course on Python is a great way to learn a technical skill that will impress employers.
+7. Experiment, experiment, experiment
+If you set up your own blog, watch online tutorials (YouTube and Wordpress are goldmines of information) on how to make it
+look spanglier. Try it out yourself. If someone in the family runs a small business, offer to build them a website. Again,
+online tutorials are the place to start. Then, once you’ve got the website set up, try out doing some online advertising 
+for them using Google Adwords. Or, if you’re a member of university society, be the one to run the Facebook page, make the
+flyers that you post on it, create short videos on your phone to put the word out there about what you do and edit them 
+using some free online tool  (Google really is your friend here). The more you do, the better a feel you will have for what
+areas of tech-related work interest and excite you.
+ 
+● Mention any relevant courses, certifications, or resources you are pursuing.
+What is a certification?
+Professional organizations award certifications to confirm that you have specific knowledge or skills needed to do a job.
+Typically, you earn a credential after you've completed your education or gained experience through an internship, residency 
+or time on the job.
+Certification involves meeting specific standards and usually passing an exam. The credential is usually valid for a limited
+time and must be renewed periodically. Employers may require that you achieve certification before being promoted or 
+receiving a raise.
+Certifications are more common in some occupations than others. Whether you need a certification may depend on your state,
+employer, or the type of work you hope to do. It is different than a license, which is issued by a governmental agency 
+giving legal authority to work in an occupation.
+Certificates, certifications and licenses
+You can add to your education and career options by obtaining various professional certificates, certifications or licenses
+The terms sound similar, but they have different meanings and functions.
+Certificates: A certificate may indicate you finished a vocational or educational program's coursework. They are not academic
+degrees and do not certify you work in a particular occupation or industry. For example, you might receive a certificate 
+for completing a management training program.
+Certifications: A certification recognizes that you have the professional skills and education matching standardized criteria
+for specific professional associations, companies or independent organizations. They are used as industry standards and may
+be required for career advancement. For example, an accounting firm may require accountants to be Certified Public Accountants
+(CPA). Certifications usually involve education and exam components and may require renewal every few years.
+Licenses: A license is used by state governments, giving you authority to work in a specific field. They usually require 
+an examination and proof of education and experience. For example, you have a state-issued license to be an electrician, 
+doctor, teacher or plumber.
+1. Project management certifications
+Careers in project management continue to be in high demand, especially for those who hold the Certified Associate in Project
+Management (CAPM) and Project Management Professional (PMP) certifications.
+The associate-level CAPM is ideal for those with less experience in managing company projects but who still possess a solid
+understanding of the field. The PMP certification is designed for professionals with a higher level of experience. Here are
+the general steps to earning these certifications:
+Possess a high school diploma, associate degree or equivalent.
+Complete 1,500 hours of project experience or
+Take 23 hours of project management education.
+Pass a 150-question exam through the Project Management Institute (PHI).
+Pay a fee of $225 to $300.
+Option one for those with less than four years in college:
+Possess a high school diploma, associate degree or equivalent.
+Have 7,500 hours of project leadership experience.
+Complete 35 hours of education in project management.
+Pass a 200-question exam.
+Pay a fee of $405 to $555.
+Option two for those with a four-year degree:
+Earn a bachelor's degree.
+Work 4,500 hours leading projects.
+Take 35 hours of education in project management.
+Pass a 200-question exam.
+Pay a fee of $405 to $555.
+
+● Share your approach to continuous learning and professional development.
+Good answer: My approach to continuous learning and personal growth is to set clear goals and create a plan to achieve them.
+I regularly attend relevant workshops, take online courses, and read industry publications to stay updated. I also seek feedback
+from my colleagues to identify areas of improvement and work on them. I believe that continuous learning not only helps me
+stay competitive in the job market but also helps me perform better at my job.
+Bad answer: I don't really have a plan for continuous learning or personal growth. I just rely on my current knowledge and
+experience to get by. I think my job tasks and duties will be enough to keep me learning.
+This answer is bad because it shows a lack of interest and initiative in personal and professional development.
+The answer projects a sense of contentment and complacency which is not attractive to most employers.
+Good answer: My approach to continuous learning and personal growth is through self-reflection and feedback. I am always
+reflecting on my performance and seeking feedback from my coworkers, mentors, and supervisors. I believe that feedback helps
+me identify my strengths and weaknesses and informs the areas where I need to improve. When I receive feedback, I take
+action to address any gaps in my knowledge or skills, and I look for opportunities to learn and grow through training and 
+development programs.
+Bad answer: Continuous learning is a waste of time and money. I think I know everything I need to know to excel at my job.
+The company should focus on hiring talented individuals instead of investing in training.
+This answer is bad because it demonstrates a rigid and negative attitude toward professional development and the employer's
+investment in cultivating their workforce.
+An employer will look for a candidate who values learning and is willing to invest in their development.
+The answer also shows a closed attitude and lack of willingness to explore new knowledge and skills.
